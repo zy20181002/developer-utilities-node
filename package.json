@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "dns": "node dns.js"
+    "server": "node index.js"
   },
   "author": "",
   "license": "ISC"
